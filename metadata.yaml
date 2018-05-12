@@ -1,0 +1,55 @@
+_repo: Wunderbare-Reise-des-kleinen-Nils-Holgersson-mit-den-Wildg-nsenEin-Kinderbuch_31114
+_version: 0.1.0
+alternative_title: Nils Holgerssons underbara resa. German
+contributor:
+  illustrator:
+    agent_name: Schulz, Wilhelm
+    birthdate: 1865
+    deathdate: 1952
+    gutenberg_agent_id: '35013'
+    url: http://www.gutenberg.org/2009/agents/35013
+  translator:
+    agent_name: Klaiber, Pauline
+    alias: Klaiber-Gottschau, Pauline
+    birthdate: 1855
+    gutenberg_agent_id: '35014'
+    url: http://www.gutenberg.org/2009/agents/35014
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lagerlöf, Selma
+    aliases:
+    - Lagerloef, Selma
+    - Lagerlöf, Selma Ottiliana Lovisa
+    - Lagerlof, Selma
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '1717'
+    url: http://www.gutenberg.org/2009/agents/1717
+    wikipedia: http://en.wikipedia.org/wiki/Selma_Lagerlöf
+description: ''
+gutenberg_bookshelf:
+- DE Kinderbuch
+- DE Prosa
+gutenberg_issued: '2010-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31114'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Geese -- Juvenile fiction'
+- !lcsh 'Fantasy literature'
+- !lcsh 'Sweden -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Kindness -- Juvenile fiction'
+- !lcsh 'Boys -- Juvenile fiction'
+title: 'Wunderbare Reise des kleinen Nils Holgersson mit den Wildgänsen
+
+  Ein Kinderbuch'
+url: http://www.gutenberg.org/ebooks/31114
